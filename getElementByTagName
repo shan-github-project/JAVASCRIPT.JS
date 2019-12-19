@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html>
+
+
+<head>
+<script src="test.js"></script>
+</head>
+<body>
+
+
+<p id="para1"> some text for this tutorial </p>
+<p id="para2"> some text for this tutorial </p>
+<p id="para3"> some text for this tutorial </p>
+<p id="para4"> some text for this tutorial </p>
+
+
+<button onclick="changeStyle()">Hit Submit 
+
+if you want to change all the text</button>
