@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+
+
+<head>
+<script src="test.js"></script>
+</head>
+<body>
+
+<p id="para1"> Some text for this tutorial </p>
+
+
+<button onclick="changeStyle()">Hit button to change image</button>
+
+
+</body>
+</html>
